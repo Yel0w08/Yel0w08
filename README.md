@@ -21,3 +21,6 @@
 [![Top used laungauges](https://github-readme-stats.vercel.app/api/top-langs/?username=Yel0w08&layout=compact&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ### I use fedora btw
+
+
+(currently the widgets server looks like to be down on april 4 2026 so may be buggy, if everyting is working fine and the widgets are there pleqse iniore this message)
