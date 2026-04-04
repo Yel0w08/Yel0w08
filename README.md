@@ -23,4 +23,4 @@
 ### I use fedora btw
 
 
-(currently the widgets server looks like to be down on april 4 2026 so may be buggy, if everyting is working fine and the widgets are there pleqse iniore this message)
+<sup>*currently the widgets server looks like to be down on april 4 so may be buggy, if everyting is working fine and the widgets are there plese igniore this message*</sup>
