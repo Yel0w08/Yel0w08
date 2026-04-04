@@ -1,4 +1,4 @@
-# Hi 👋, I'm Yel0w
+# Hi, I'm Yel0w
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yel0w08" alt="" /></a> </p>
 
