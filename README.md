@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yel0w08" alt="" /></a> </p>
 
-- My portfolio is at **[Yel0w.fr](Yel0w.fr)** or **[yel0w08.github.io/Portofolio](https://yel0w08.github.io/Portofolio/)**
+- My portfolio is at **[Yel0w.fr](Yel0w.fr)** or **[yel0w08.github.io/Portofolio](https://yel0w08.github.io/Portofolio/)** main website at [Yel0w.com](Yel0w.com)
 
 
 <p align="left">
