@@ -8,4 +8,4 @@ My portfolio is at **[Yel0w.fr](Yel0w.fr)** or **[yel0w08.github.io/Portofolio](
 
 ###### I use fedora btw
 
-###### dont forget to ~~f*k~~ the ia pls. i ~~ate~~ hate them.
+###### dont forget to  the ia pls. i ~~ate~~ hate them.
