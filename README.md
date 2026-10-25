@@ -6,6 +6,4 @@ My portfolio is at **[Yel0w.fr](Yel0w.fr)** or **[yel0w08.github.io/Portofolio](
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yel0w08&show_icons=true&locale=en&theme=dark&" alt="" /></p>
 
-###### I use fedora btw
-
-###### dont forget to  the ia pls. i ~~ate~~ hate them.
+###### I use arch linux btw
